@@ -1,4 +1,4 @@
-# jekyllBear
+# RE 397
 
 ## An easy to use, minimal, text focused Jekyll theme
 
