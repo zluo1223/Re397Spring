@@ -15,4 +15,7 @@ title: Hello!Welcome to RE397
 - Some lab contents
 - Readings shared by lab instructor
 
+## Connect with instructor
+
+[Welcome to connect me on Linkedin](https://www.linkedin.com/in/zhongmin-luo-9b5400221/)
 
