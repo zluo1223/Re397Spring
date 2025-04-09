@@ -5,4 +5,4 @@ description: Here be writings
 permalink: /blog
 ---
 
-Definition
+Some important topics
