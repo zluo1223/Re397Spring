@@ -1,8 +1,8 @@
 ---
 layout: compress
 title: Document
-description: Here be writings
-permalink: /blog
+description: A collection of research documents and posts
+permalink: /document
 ---
 
 Some important topics
